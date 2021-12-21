@@ -38,8 +38,12 @@
 ## Requirement
 
 python==3.7
+
 tensorflow==2.7.0
+
 numpy==1.21.2
+
 h5py==2.10.0
+
 matplotlib==3.5.0
 
