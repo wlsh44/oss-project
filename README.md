@@ -11,7 +11,7 @@
 
 ### 당신은 어떤 포켓몬과 닮았나요?
 
-사진
+![title img](./assets/title)
 
 ## Description
 
@@ -20,7 +20,13 @@
 ### 사용법
 
 1. 본인이 원하는 사진을 input 파일에 넣습니다.
+
+![use1](./assets/use1)
+
 2. what_pokemon_are_you_similiar_to.ipynb 에 들어간 후 your_img 변수에 추가한 이미지의 이름을 입력합니다.
+
+![use2](./assets/use2)
+
 3. 그 후 모든 cell을 실행시킨 후 마지막으로 what_pokemon_are_you_similiar_to 함수를 실행시켜 결과를 확인합니다.
 
 
