@@ -53,4 +53,6 @@ h5py==2.10.0
 
 matplotlib==3.5.0
 
+import_ipynb=0.1.3
+
 _**python, tensorflow, h5py의 버전이 다를 경우 모델이 실행되지 않을 수 있습니다.**_
