@@ -32,7 +32,11 @@
 
 ### Example
 
-사진
+![ex1](./assets/ex1.png)
+
+![ex2](./assets/ex2.png)
+
+![ex3](./assets/ex3.png)
 
 ## Model
 
