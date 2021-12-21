@@ -47,6 +47,14 @@
 * kaggle에서 제공하는 포켓몬 사진 11945장을 CNN을 이용해 학습을 시킨 모델을 이용하였습니다.
 * 사용한 CNN 모델로는 keras에서 제공하는 ResNet50을 사용하였습니다.
 
+![model1](./assets/model1.png)
+![model2](./assets/model2.png)
+
+* 여러 모델을 돌린 결과, 최종 모델은 위와 같은 loss, accuracy를 보였습니다.
+* 마지막 test set에 대해서 최종 accuracy는 85.62%가 나왔습니다.
+
+![img](./assets/img.png)
+
 * [데이터 출처](https://www.kaggle.com/unexpectedscepticism/11945-pokemon-from-first-gen)
 
 ## Requirement
