@@ -19,15 +19,19 @@
 
 ### 사용법
 
-1. 본인이 원하는 사진을 input 파일에 넣습니다.
+1. [이곳](https://www.kaggle.com/unexpectedscepticism/11945-pokemon-from-first-gen)에서 데이터를 받은 후 이 프로젝트의 루트 디렉토리에 저장합니다.
+
+2. split_data.ipynb를 실행시켜 데이터를 나눕니다.
+
+3. 본인이 원하는 사진을 input 파일에 넣습니다.
 
 ![use1](./assets/use1.png)
 
-2. what_pokemon_are_you_similiar_to.ipynb 에 들어간 후 your_img 변수에 추가한 이미지의 이름을 입력합니다.
+4. what_pokemon_are_you_similiar_to.ipynb 에 들어간 후 your_img 변수에 추가한 이미지의 이름을 입력합니다.
 
 ![use2](./assets/use2.png)
 
-3. 그 후 모든 cell을 실행시킨 후 마지막으로 what_pokemon_are_you_similiar_to 함수를 실행시켜 결과를 확인합니다.
+5. 그 후 모든 cell을 실행시킨 후 마지막으로 what_pokemon_are_you_similiar_to 함수를 실행시켜 결과를 확인합니다.
 
 
 ### Example
