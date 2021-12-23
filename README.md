@@ -1,4 +1,4 @@
-# What Pokemon Are You Similiar To?
+# What Pokemon Are You Similar To?
 
 ## Contents
 
@@ -27,11 +27,11 @@
 
 ![use1](./assets/use1.png)
 
-4. what_pokemon_are_you_similiar_to.ipynb 에 들어간 후 your_img 변수에 추가한 이미지의 이름을 입력합니다.
+4. what_pokemon_are_you_similar_to.ipynb 에 들어간 후 your_img 변수에 추가한 이미지의 이름을 입력합니다.
 
 ![use2](./assets/use2.png)
 
-5. 그 후 모든 cell을 실행시킨 후 마지막으로 what_pokemon_are_you_similiar_to 함수를 실행시켜 결과를 확인합니다.
+5. 그 후 모든 cell을 실행시킨 후 마지막으로 what_pokemon_are_you_similar_to 함수를 실행시켜 결과를 확인합니다.
 
 
 ### Example
